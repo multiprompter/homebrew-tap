@@ -1,6 +1,6 @@
 cask "multiprompter" do
-  version "1.3"
-  sha256 "1037950bd14c54cc0952e516d084376b0fa4514ef1dfd09b6770e8448c3811f0"
+  version "1.4"
+  sha256 "b4d66a96aacc21245b08ccf6f0209a9d95dfb79446fd1338e2427b1b6a351599"
 
   url "https://github.com/multiprompter/releases/releases/download/v#{version}/Multiprompter.dmg"
   name "Multiprompter"
